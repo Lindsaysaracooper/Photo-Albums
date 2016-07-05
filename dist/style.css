@@ -1,0 +1,25 @@
+header {
+  text-align: center;
+  color: #47A3DA;
+  font-size: 2rem; }
+
+.nav {
+  display: inline-block;
+  width: 45%; }
+
+.albums {
+  display: inline-block;
+  color: #47A3DA;
+  margin-left: 30%; }
+
+.albums img {
+  width: 60%; }
+
+.albums h1 {
+  width: 50%;
+  margin: 0; }
+
+.hidden {
+  display: none; }
+
+/*# sourceMappingURL=style.css.map */
